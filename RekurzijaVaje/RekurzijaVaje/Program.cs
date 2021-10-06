@@ -10,7 +10,7 @@ namespace RekurzijaVaje
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(vaja3(7));
+            Console.WriteLine(vaja5(5));
             Console.ReadLine();
         }
 
@@ -51,11 +51,25 @@ namespace RekurzijaVaje
         }
         static int vaja4(int n)
         {
-            
+            if (n==1)
+            {
+                return 2;
+            }
+            return 3 * vaja4(n - 1) + 2;
         }
         static int vaja5(int n)
         {
-           
+            if (n==1)
+            {
+                return 1;
+            }
+
+            if (n == 2)
+            {
+                return 2;
+            }
+
+            return vaja5(n-1) * 2 + vaja5(n - 2);
         }
     }
 }
