@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\bin\Debug\HanoiskiStolpi.exe.config
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\bin\Debug\HanoiskiStolpi.exe
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\bin\Debug\HanoiskiStolpi.pdb
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\obj\Debug\HanoiskiStolpi.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\obj\Debug\HanoiskiStolpi.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\obj\Debug\HanoiskiStolpi.exe
+C:\Users\student\source\repos\HanoiskiStolpi\HanoiskiStolpi\obj\Debug\HanoiskiStolpi.pdb
