@@ -10,6 +10,8 @@ namespace RekurzijaVaje
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(vaja3(5));
+            Console.WriteLine(vaja4(5));
             Console.WriteLine(vaja5(5));
             Console.ReadLine();
         }
