@@ -5,3 +5,10 @@ D:\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.csproj.AssemblyRe
 D:\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.csproj.CoreCompileInputs.cache
 D:\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.exe
 D:\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.pdb
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.csproj.AssemblyReference.cache
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.csproj.CoreCompileInputs.cache
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.exe
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\obj\Debug\RekurzijaVaje.pdb
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\bin\Debug\RekurzijaVaje.exe.config
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\bin\Debug\RekurzijaVaje.exe
+E:\Documents\Sola\PRO2021\RekurzijaVaje\RekurzijaVaje\bin\Debug\RekurzijaVaje.pdb
