@@ -1,0 +1,7 @@
+D:\PRO2021\Mutanti\Mutanti\bin\Debug\Mutanti.exe.config
+D:\PRO2021\Mutanti\Mutanti\bin\Debug\Mutanti.exe
+D:\PRO2021\Mutanti\Mutanti\bin\Debug\Mutanti.pdb
+D:\PRO2021\Mutanti\Mutanti\obj\Debug\Mutanti.csproj.AssemblyReference.cache
+D:\PRO2021\Mutanti\Mutanti\obj\Debug\Mutanti.csproj.CoreCompileInputs.cache
+D:\PRO2021\Mutanti\Mutanti\obj\Debug\Mutanti.exe
+D:\PRO2021\Mutanti\Mutanti\obj\Debug\Mutanti.pdb

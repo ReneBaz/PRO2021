@@ -10,7 +10,7 @@ namespace VSŠMobil
     {
         private int visjaTarifaPorableno;
 
-        public new void BeležiKlic(int minute, int tip)
+        public override void BeležiKlic(int minute, int tip)
         {
             switch (tip)
             {

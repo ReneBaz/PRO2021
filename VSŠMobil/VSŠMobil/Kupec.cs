@@ -19,7 +19,7 @@ namespace VSŠMobil
             stanje = stanje - plačilo;
         }
 
-        public void BeležiKlic(int minute, int tip)
+        public virtual void BeležiKlic(int minute, int tip)
         {
             switch (tip)
             {
