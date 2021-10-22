@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Računanje\Računanje\bin\Debug\Računanje.exe.config
+C:\Users\student\source\repos\Računanje\Računanje\bin\Debug\Računanje.exe
+C:\Users\student\source\repos\Računanje\Računanje\bin\Debug\Računanje.pdb
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.Form1.resources
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.Properties.Resources.resources
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.exe
+C:\Users\student\source\repos\Računanje\Računanje\obj\Debug\Računanje.pdb
