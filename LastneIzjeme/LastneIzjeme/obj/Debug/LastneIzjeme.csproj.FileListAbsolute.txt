@@ -1,0 +1,10 @@
+D:\PRO2021\LastneIzjeme\LastneIzjeme\bin\Debug\LastneIzjeme.exe.config
+D:\PRO2021\LastneIzjeme\LastneIzjeme\bin\Debug\LastneIzjeme.exe
+D:\PRO2021\LastneIzjeme\LastneIzjeme\bin\Debug\LastneIzjeme.pdb
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.csproj.AssemblyReference.cache
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.Form1.resources
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.Properties.Resources.resources
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.csproj.GenerateResource.cache
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.csproj.CoreCompileInputs.cache
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.exe
+D:\PRO2021\LastneIzjeme\LastneIzjeme\obj\Debug\LastneIzjeme.pdb
