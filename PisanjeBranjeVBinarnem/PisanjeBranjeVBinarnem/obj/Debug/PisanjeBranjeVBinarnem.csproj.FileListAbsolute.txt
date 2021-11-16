@@ -1,0 +1,7 @@
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\bin\Debug\PisanjeBranjeVBinarnem.exe.config
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\bin\Debug\PisanjeBranjeVBinarnem.exe
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\bin\Debug\PisanjeBranjeVBinarnem.pdb
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\obj\Debug\PisanjeBranjeVBinarnem.csproj.AssemblyReference.cache
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\obj\Debug\PisanjeBranjeVBinarnem.csproj.CoreCompileInputs.cache
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\obj\Debug\PisanjeBranjeVBinarnem.exe
+D:\PRO2021\PisanjeBranjeVBinarnem\PisanjeBranjeVBinarnem\obj\Debug\PisanjeBranjeVBinarnem.pdb

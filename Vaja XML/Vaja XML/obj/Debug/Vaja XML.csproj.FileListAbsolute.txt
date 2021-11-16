@@ -1,0 +1,7 @@
+D:\PRO2021\Vaja XML\Vaja XML\bin\Debug\Vaja XML.exe.config
+D:\PRO2021\Vaja XML\Vaja XML\bin\Debug\Vaja XML.exe
+D:\PRO2021\Vaja XML\Vaja XML\bin\Debug\Vaja XML.pdb
+D:\PRO2021\Vaja XML\Vaja XML\obj\Debug\Vaja XML.csproj.AssemblyReference.cache
+D:\PRO2021\Vaja XML\Vaja XML\obj\Debug\Vaja XML.csproj.CoreCompileInputs.cache
+D:\PRO2021\Vaja XML\Vaja XML\obj\Debug\Vaja XML.exe
+D:\PRO2021\Vaja XML\Vaja XML\obj\Debug\Vaja XML.pdb
