@@ -40,7 +40,9 @@ namespace Društvo
             this.TxtOpombe = new System.Windows.Forms.TextBox();
             this.DtpDatum = new System.Windows.Forms.DateTimePicker();
             this.SbStatus = new System.Windows.Forms.StatusStrip();
+            this.sbStatusL = new System.Windows.Forms.ToolStripStatusLabel();
             this.butVnesi = new System.Windows.Forms.Button();
+            this.SbStatus.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -94,20 +96,22 @@ namespace Društvo
             this.TxtZaŠt.Name = "TxtZaŠt";
             this.TxtZaŠt.Size = new System.Drawing.Size(100, 20);
             this.TxtZaŠt.TabIndex = 5;
+            this.TxtZaŠt.Leave += new System.EventHandler(this.TxtZaŠt_Leave);
             // 
             // TxtNamen
             // 
             this.TxtNamen.Location = new System.Drawing.Point(269, 98);
             this.TxtNamen.Name = "TxtNamen";
             this.TxtNamen.Size = new System.Drawing.Size(400, 20);
-            this.TxtNamen.TabIndex = 6;
+            this.TxtNamen.TabIndex = 7;
             // 
             // TxtZnesek
             // 
             this.TxtZnesek.Location = new System.Drawing.Point(269, 134);
             this.TxtZnesek.Name = "TxtZnesek";
             this.TxtZnesek.Size = new System.Drawing.Size(100, 20);
-            this.TxtZnesek.TabIndex = 7;
+            this.TxtZnesek.TabIndex = 8;
+            this.TxtZnesek.Leave += new System.EventHandler(this.TxtZnesek_Leave);
             // 
             // TxtOpombe
             // 
@@ -115,23 +119,32 @@ namespace Društvo
             this.TxtOpombe.Multiline = true;
             this.TxtOpombe.Name = "TxtOpombe";
             this.TxtOpombe.Size = new System.Drawing.Size(400, 170);
-            this.TxtOpombe.TabIndex = 8;
+            this.TxtOpombe.TabIndex = 9;
             // 
             // DtpDatum
             // 
             this.DtpDatum.Location = new System.Drawing.Point(269, 62);
             this.DtpDatum.Name = "DtpDatum";
             this.DtpDatum.Size = new System.Drawing.Size(200, 20);
-            this.DtpDatum.TabIndex = 9;
+            this.DtpDatum.TabIndex = 6;
             this.DtpDatum.Value = new System.DateTime(2021, 11, 16, 9, 59, 38, 0);
+            this.DtpDatum.Enter += new System.EventHandler(this.DtpDatum_Enter);
             // 
             // SbStatus
             // 
-            this.SbStatus.Location = new System.Drawing.Point(0, 466);
+            this.SbStatus.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.sbStatusL});
+            this.SbStatus.Location = new System.Drawing.Point(0, 459);
             this.SbStatus.Name = "SbStatus";
             this.SbStatus.Size = new System.Drawing.Size(778, 22);
             this.SbStatus.TabIndex = 10;
             this.SbStatus.Text = "statusStrip1";
+            // 
+            // sbStatusL
+            // 
+            this.sbStatusL.Name = "sbStatusL";
+            this.sbStatusL.Size = new System.Drawing.Size(29, 17);
+            this.sbStatusL.Text = "Nov";
             // 
             // butVnesi
             // 
@@ -147,7 +160,7 @@ namespace Društvo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(778, 488);
+            this.ClientSize = new System.Drawing.Size(778, 481);
             this.Controls.Add(this.butVnesi);
             this.Controls.Add(this.SbStatus);
             this.Controls.Add(this.DtpDatum);
@@ -162,6 +175,8 @@ namespace Društvo
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.SbStatus.ResumeLayout(false);
+            this.SbStatus.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -181,6 +196,7 @@ namespace Društvo
         private System.Windows.Forms.DateTimePicker DtpDatum;
         private System.Windows.Forms.StatusStrip SbStatus;
         private System.Windows.Forms.Button butVnesi;
+        private System.Windows.Forms.ToolStripStatusLabel sbStatusL;
     }
 }
 
