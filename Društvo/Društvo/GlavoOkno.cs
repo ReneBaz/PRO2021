@@ -30,5 +30,19 @@ namespace Društvo
             a.MdiParent = this;
             a.Show();
         }
+
+        private void zapišiPodatkeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Zaščita a = new Zaščita();
+            a.MdiParent = this;
+            a.Show();
+        }
+
+        private void obnoviPodatkeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Obnova a = new Obnova();
+            a.MdiParent = this;
+            a.Show();
+        }
     }
 }

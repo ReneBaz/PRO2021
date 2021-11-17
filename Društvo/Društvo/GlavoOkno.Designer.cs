@@ -34,6 +34,8 @@ namespace Društvo
             this.pregledToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tiskanjeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.zaščitaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.zapišiPodatkeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.obnoviPodatkeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -72,9 +74,26 @@ namespace Društvo
             // 
             // zaščitaToolStripMenuItem
             // 
+            this.zaščitaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.zapišiPodatkeToolStripMenuItem,
+            this.obnoviPodatkeToolStripMenuItem});
             this.zaščitaToolStripMenuItem.Name = "zaščitaToolStripMenuItem";
             this.zaščitaToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.zaščitaToolStripMenuItem.Text = "Zaščita";
+            // 
+            // zapišiPodatkeToolStripMenuItem
+            // 
+            this.zapišiPodatkeToolStripMenuItem.Name = "zapišiPodatkeToolStripMenuItem";
+            this.zapišiPodatkeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.zapišiPodatkeToolStripMenuItem.Text = "Zapiši podatke";
+            this.zapišiPodatkeToolStripMenuItem.Click += new System.EventHandler(this.zapišiPodatkeToolStripMenuItem_Click);
+            // 
+            // obnoviPodatkeToolStripMenuItem
+            // 
+            this.obnoviPodatkeToolStripMenuItem.Name = "obnoviPodatkeToolStripMenuItem";
+            this.obnoviPodatkeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.obnoviPodatkeToolStripMenuItem.Text = "Obnovi podatke";
+            this.obnoviPodatkeToolStripMenuItem.Click += new System.EventHandler(this.obnoviPodatkeToolStripMenuItem_Click);
             // 
             // GlavoOkno
             // 
@@ -101,5 +120,7 @@ namespace Društvo
         private System.Windows.Forms.ToolStripMenuItem pregledToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem tiskanjeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem zaščitaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem zapišiPodatkeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem obnoviPodatkeToolStripMenuItem;
     }
 }
