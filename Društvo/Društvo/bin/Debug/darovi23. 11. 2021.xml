@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfDarovi xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Darovi>
+    <ZapŠT>0</ZapŠT>
+    <Datum>2021-11-27T09:59:38</Datum>
+    <Namen>rjgdkbg</Namen>
+    <Znesek>34</Znesek>
+    <Opombe>wefwefwef</Opombe>
+  </Darovi>
+  <Darovi>
+    <ZapŠT>1</ZapŠT>
+    <Datum>2021-12-04T09:59:38</Datum>
+    <Namen>Poplave</Namen>
+    <Znesek>100</Znesek>
+    <Opombe>ni</Opombe>
+  </Darovi>
+  <Darovi>
+    <ZapŠT>3</ZapŠT>
+    <Datum>2021-11-05T09:59:38</Datum>
+    <Namen>negativn</Namen>
+    <Znesek>-50</Znesek>
+    <Opombe>so ukradli</Opombe>
+  </Darovi>
+</ArrayOfDarovi>

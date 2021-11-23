@@ -71,6 +71,7 @@ namespace Društvo
             this.tiskanjeToolStripMenuItem.Name = "tiskanjeToolStripMenuItem";
             this.tiskanjeToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.tiskanjeToolStripMenuItem.Text = "Tiskanje";
+            this.tiskanjeToolStripMenuItem.Click += new System.EventHandler(this.tiskanjeToolStripMenuItem_Click);
             // 
             // zaščitaToolStripMenuItem
             // 
@@ -84,14 +85,14 @@ namespace Društvo
             // zapišiPodatkeToolStripMenuItem
             // 
             this.zapišiPodatkeToolStripMenuItem.Name = "zapišiPodatkeToolStripMenuItem";
-            this.zapišiPodatkeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.zapišiPodatkeToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
             this.zapišiPodatkeToolStripMenuItem.Text = "Zapiši podatke";
             this.zapišiPodatkeToolStripMenuItem.Click += new System.EventHandler(this.zapišiPodatkeToolStripMenuItem_Click);
             // 
             // obnoviPodatkeToolStripMenuItem
             // 
             this.obnoviPodatkeToolStripMenuItem.Name = "obnoviPodatkeToolStripMenuItem";
-            this.obnoviPodatkeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.obnoviPodatkeToolStripMenuItem.Size = new System.Drawing.Size(159, 22);
             this.obnoviPodatkeToolStripMenuItem.Text = "Obnovi podatke";
             this.obnoviPodatkeToolStripMenuItem.Click += new System.EventHandler(this.obnoviPodatkeToolStripMenuItem_Click);
             // 

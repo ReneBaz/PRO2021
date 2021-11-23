@@ -11,3 +11,5 @@ D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.pdb
 D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Resource1.resources
 D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.GlavoOkno.resources
 D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Pregled.resources
+D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Zaščita.resources
+D:\PRO2021\Društvo\Društvo\obj\Debug\Društvo.Tiskanje.resources

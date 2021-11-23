@@ -1,0 +1,34 @@
+﻿<Window x:Class="DruštvoWPF.Vnosi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DruštvoWPF"
+        mc:Ignorable="d"
+        Title="Vnosi" Height="450" Width="800">
+    <Grid Margin="0,0,0,168">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="ZapŠt" Margin="5"/>
+        <TextBox Grid.Row="0" Grid.Column="1" x:Name="txtZapŠt" Margin="5"/>
+        <TextBlock Grid.Row="1" Grid.Column="0" Text="datum" Margin="5"/>
+        <DatePicker Grid.Row="1" Grid.Column="1" x:Name="txtDatum" Margin="5"/>
+        <TextBlock Grid.Row="2" Grid.Column="0" Text="Name" Margin="5"/>
+        <TextBox Grid.Row="2" Grid.Column="1" x:Name="txtName" Margin="5"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" Text="Znesek" Margin="5"/>
+        <TextBox Grid.Row="3" Grid.Column="1" x:Name="txtZnesek" Margin="5"/>
+        <TextBlock Grid.Row="4" Grid.Column="0" Text="Opomba" Margin="5"/>
+        <TextBox Grid.Row="4" Grid.Column="1" x:Name="txtOpomba" Margin="5"/>
+        <Button Grid.Row="5" Grid.Column="1" Content="Vnesi" Click="Button_Click"/>
+    </Grid>
+</Window>
