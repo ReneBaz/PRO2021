@@ -1,0 +1,10 @@
+D:\PRO2021\SQLVaja\SQLVaja\bin\Debug\SQLVaja.exe.config
+D:\PRO2021\SQLVaja\SQLVaja\bin\Debug\SQLVaja.exe
+D:\PRO2021\SQLVaja\SQLVaja\bin\Debug\SQLVaja.pdb
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.csproj.AssemblyReference.cache
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.Form1.resources
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.Properties.Resources.resources
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.csproj.GenerateResource.cache
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.csproj.CoreCompileInputs.cache
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.exe
+D:\PRO2021\SQLVaja\SQLVaja\obj\Debug\SQLVaja.pdb
