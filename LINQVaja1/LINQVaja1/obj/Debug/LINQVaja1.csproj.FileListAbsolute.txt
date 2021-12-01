@@ -1,0 +1,7 @@
+D:\PRO2021\LINQVaja1\LINQVaja1\bin\Debug\LINQVaja1.exe.config
+D:\PRO2021\LINQVaja1\LINQVaja1\bin\Debug\LINQVaja1.exe
+D:\PRO2021\LINQVaja1\LINQVaja1\bin\Debug\LINQVaja1.pdb
+D:\PRO2021\LINQVaja1\LINQVaja1\obj\Debug\LINQVaja1.csproj.CoreCompileInputs.cache
+D:\PRO2021\LINQVaja1\LINQVaja1\obj\Debug\LINQVaja1.exe
+D:\PRO2021\LINQVaja1\LINQVaja1\obj\Debug\LINQVaja1.pdb
+D:\PRO2021\LINQVaja1\LINQVaja1\obj\Debug\LINQVaja1.csproj.AssemblyReference.cache

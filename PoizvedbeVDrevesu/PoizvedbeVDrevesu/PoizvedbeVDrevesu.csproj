@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4AD206E8-FBD0-43D4-8E73-DA509AA34C0C}</ProjectGuid>
+    <ProjectGuid>{C185F32D-9279-4AF8-BD41-5D863C5E4922}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LinkToObjects</RootNamespace>
-    <AssemblyName>LinkToObjects</AssemblyName>
+    <RootNamespace>PoizvedbeVDrevesu</RootNamespace>
+    <AssemblyName>PoizvedbeVDrevesu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,14 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Naročilo.cs" />
-    <Compile Include="Naslov.cs" />
-    <Compile Include="PodrobnostiNaročila.cs" />
+    <Compile Include="ICloneable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Zaposleni.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\BinaryTree\BinaryTree\BinaryTree.csproj">
+      <Project>{98299a17-0135-4927-9edb-ce1745b933b4}</Project>
+      <Name>BinaryTree</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

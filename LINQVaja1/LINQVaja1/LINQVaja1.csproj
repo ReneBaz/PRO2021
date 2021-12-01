@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4AD206E8-FBD0-43D4-8E73-DA509AA34C0C}</ProjectGuid>
+    <ProjectGuid>{177C5B0B-F603-4F22-812D-4CE119E1866D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LinkToObjects</RootNamespace>
-    <AssemblyName>LinkToObjects</AssemblyName>
+    <RootNamespace>LINQVaja1</RootNamespace>
+    <AssemblyName>LINQVaja1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Naročilo.cs" />
-    <Compile Include="Naslov.cs" />
-    <Compile Include="PodrobnostiNaročila.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
