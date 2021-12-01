@@ -27,7 +27,7 @@ namespace Društvo
             
                 d.ZapŠT = int.Parse(TxtZaŠt.Text);
   
-    d.Datum = DtpDatum.Value;
+            d.Datum = DtpDatum.Value;
             d.Namen = TxtNamen.Text;
            
                 d.Znesek = decimal.Parse(TxtZnesek.Text);
