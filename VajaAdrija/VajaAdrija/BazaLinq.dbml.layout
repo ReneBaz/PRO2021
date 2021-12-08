@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.625" name="BazaLinq">
+  <DataContextMoniker Name="/BazaLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="29b577a8-9b6d-4f36-97d1-abadc867ef57" absoluteBounds="1.125, 0.625, 2, 3.1170068359375">
+      <DataClassMoniker Name="/BazaLinqDataContext/CHARTER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="61ac69cf-1212-4eb3-808a-14a194851774" absoluteBounds="1.1400000000000001, 1.085, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6cc651e6-9525-478c-8c1b-1dcf6aa6101e" absoluteBounds="3.625, 3.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BazaLinqDataContext/LETALO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c8cafe0-b278-41fd-b430-9725437c2fef" absoluteBounds="3.6399999999999997, 4.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 4.51044840494792); (2.484377 : 4.51044840494792); (2.484377 : 3.7420068359375)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BazaLinqDataContext/LETALO/LETALO_CHARTER" />
+      <nodes>
+        <classShapeMoniker Id="6cc651e6-9525-478c-8c1b-1dcf6aa6101e" />
+        <classShapeMoniker Id="29b577a8-9b6d-4f36-97d1-abadc867ef57" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="120ad9c4-a075-4859-a4ee-a913c98b6518" absoluteBounds="6, 3.25, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BazaLinqDataContext/MODEL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7ede2c37-e1cc-43ea-8e63-9e3ac99ad9ee" absoluteBounds="6.0150000000000006, 3.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 4.32294840494792); (5.625 : 4.32294840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BazaLinqDataContext/MODEL/MODEL_LETALO" />
+      <nodes>
+        <classShapeMoniker Id="120ad9c4-a075-4859-a4ee-a913c98b6518" />
+        <classShapeMoniker Id="6cc651e6-9525-478c-8c1b-1dcf6aa6101e" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="7d17888a-ba60-4473-87cc-f4d1d967d7b8" absoluteBounds="0.5, 5.625, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BazaLinqDataContext/PILOT" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1cec35b2-403a-4154-b5fc-b31a125d37f1" absoluteBounds="0.51500000000000012, 6.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.78125 : 5.625); (1.78125 : 3.7420068359375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BazaLinqDataContext/PILOT/PILOT_CHARTER" />
+      <nodes>
+        <classShapeMoniker Id="7d17888a-ba60-4473-87cc-f4d1d967d7b8" />
+        <classShapeMoniker Id="29b577a8-9b6d-4f36-97d1-abadc867ef57" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="f7298a53-13ae-4c21-87fa-467337b8f278" absoluteBounds="3.875, 0.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BazaLinqDataContext/STRANKA" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c275343-de5b-4af1-a882-669d00ef91d3" absoluteBounds="3.8899999999999997, 1.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.875 : 1.70274983723958); (3.125 : 1.70274983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BazaLinqDataContext/STRANKA/STRANKA_CHARTER" />
+      <nodes>
+        <classShapeMoniker Id="f7298a53-13ae-4c21-87fa-467337b8f278" />
+        <classShapeMoniker Id="29b577a8-9b6d-4f36-97d1-abadc867ef57" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="905559e6-5bd7-471e-a471-873837a68bb5" absoluteBounds="5.25, 6.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/BazaLinqDataContext/ZAPOSELNI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="81a7c69a-b94e-48f6-bc8e-2315c6f35048" absoluteBounds="5.2650000000000006, 6.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.25 : 6.91909912109375); (2.5 : 6.91909912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BazaLinqDataContext/ZAPOSELNI/ZAPOSELNI_PILOT" />
+      <nodes>
+        <classShapeMoniker Id="905559e6-5bd7-471e-a471-873837a68bb5" />
+        <classShapeMoniker Id="7d17888a-ba60-4473-87cc-f4d1d967d7b8" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,7 @@
+D:\PRO2021\VajaDeligati\VajaDeligati\bin\Debug\VajaDeligati.exe.config
+D:\PRO2021\VajaDeligati\VajaDeligati\bin\Debug\VajaDeligati.exe
+D:\PRO2021\VajaDeligati\VajaDeligati\bin\Debug\VajaDeligati.pdb
+D:\PRO2021\VajaDeligati\VajaDeligati\obj\Debug\VajaDeligati.csproj.AssemblyReference.cache
+D:\PRO2021\VajaDeligati\VajaDeligati\obj\Debug\VajaDeligati.csproj.CoreCompileInputs.cache
+D:\PRO2021\VajaDeligati\VajaDeligati\obj\Debug\VajaDeligati.exe
+D:\PRO2021\VajaDeligati\VajaDeligati\obj\Debug\VajaDeligati.pdb

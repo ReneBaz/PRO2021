@@ -1,0 +1,7 @@
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\bin\Debug\PovezavaLinkToSQL.exe.config
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\bin\Debug\PovezavaLinkToSQL.exe
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\bin\Debug\PovezavaLinkToSQL.pdb
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\obj\Debug\PovezavaLinkToSQL.csproj.AssemblyReference.cache
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\obj\Debug\PovezavaLinkToSQL.csproj.CoreCompileInputs.cache
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\obj\Debug\PovezavaLinkToSQL.exe
+D:\PRO2021\PovezavaLinkToSQL\PovezavaLinkToSQL\obj\Debug\PovezavaLinkToSQL.pdb

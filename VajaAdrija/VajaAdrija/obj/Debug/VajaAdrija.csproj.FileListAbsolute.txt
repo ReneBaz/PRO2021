@@ -1,0 +1,6 @@
+D:\PRO2021\VajaAdrija\VajaAdrija\bin\Debug\VajaAdrija.exe.config
+D:\PRO2021\VajaAdrija\VajaAdrija\bin\Debug\VajaAdrija.exe
+D:\PRO2021\VajaAdrija\VajaAdrija\bin\Debug\VajaAdrija.pdb
+D:\PRO2021\VajaAdrija\VajaAdrija\obj\Debug\VajaAdrija.csproj.CoreCompileInputs.cache
+D:\PRO2021\VajaAdrija\VajaAdrija\obj\Debug\VajaAdrija.exe
+D:\PRO2021\VajaAdrija\VajaAdrija\obj\Debug\VajaAdrija.pdb
